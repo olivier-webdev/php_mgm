@@ -9,6 +9,6 @@
 <body>
     <h1>Index</h1>
 
-    <a href="./delete.php">Delete</a>
+    <a href="./recup.php">Recup</a>
 </body>
 </html>
